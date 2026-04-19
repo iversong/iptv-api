@@ -8,59 +8,71 @@ on:
       - master
       - dev
       - gd
+
 jobs:
   push:
-    runs-on: ${{ matrix.operating-system }}
-    strategy:
-      matrix:
-        operating-system: [ 'ubuntu-latest' ]
+    runs-on: ubuntu-latest
     steps:
       - name: Set branch name
         id: vars
-        run: echo "BRANCH_NAME=${{ github.repository_owner == 'iversong' && 'gd' || 'master' }}" >> $GITHUB_ENV
-      - uses: actions/checkout@v3
+        run: |
+          if [[ "${{ github.repository_owner }}" == "iversong" ]]; then
+            echo "BRANCH_NAME=master" >> $GITHUB_ENV
+          else
+            echo "BRANCH_NAME=gd" >> $GITHUB_ENV
+          fi
+
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
           ref: ${{ env.BRANCH_NAME }}
+          # 关键：配置 token，让 checkout 拉取的仓库有后续推送权限
+          token: ${{ secrets.GH_TOKEN }}
+
       - name: Run with setup-python 3.13
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.13'
           update-environment: true
           cache: 'pipenv'
+
       - name: Install FFmpeg
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
       - name: Install pipenv
         run: pip3 install --user pipenv
+
       - name: Install dependecies
         run: pipenv --python 3.13 && pipenv install --deploy
+
       - name: Update
         run: pipenv run dev
+
       - name: Commit and push if changed
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add *
-          git reset --soft HEAD^
-          git commit -m "Github Action Auto Updated"
-          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/iversong/iptv-api.git
-          git remote -v
-          git push origin HEAD:master
 
-      - name: Mirror the Github organization repos to Gitee.
+          # 检查是否有变更
+          git add .
+          git status
+          git diff --quiet && git diff --staged --quiet || (
+              git commit -m "Github Action Auto Updated"
+              # 关键：使用带 token 的 URL，推送到当前分支，而不是硬编码 master
+              git remote set-url origin https://${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git
+              git push origin ${{ env.BRANCH_NAME }}
+          )
+
+      - name: Mirror to Gitee
         run: |
           mkdir -p ~/.ssh
           chmod 700 ~/.ssh
           echo "${{ secrets.GITEE_PRIVATE_KEY }}" > ~/.ssh/id_rsa
           chmod 600 ~/.ssh/id_rsa
-          # 启动 ssh-agent 并添加私钥（避免权限/agent 问题）
           eval "$(ssh-agent -s)"
           ssh-add ~/.ssh/id_rsa || true
-          # 获取并添加 Gitee 的主机密钥，避免 Host key verification failed
-          ssh-keyscan -t rsa gitee.com >> ~/.ssh/known_hosts
-          ssh-keyscan -t ecdsa gitee.com >> ~/.ssh/known_hosts
+          ssh-keyscan -t rsa,ecdsa gitee.com >> ~/.ssh/known_hosts
           chmod 644 ~/.ssh/known_hosts
-          # 写入 SSH config，使用 accept-new 来更安全地接受新主机密钥
           cat > ~/.ssh/config <<'EOF'
           Host gitee.com
             HostName gitee.com
@@ -68,19 +80,11 @@ jobs:
             User git
             StrictHostKeyChecking accept-new
           EOF
+
+          # 重置 Gitee 镜像分支（避免历史问题）
           git reset --soft $(git rev-list --max-parents=0 HEAD)
           git reset HEAD -- .
           git add -- README.md output/ .github/
-          git remote add gitee git@gitee.com:mytv-android/iptv-api.git
-          git commit -m "Github Action Auto Updated"
+          git commit -m "Github Action Auto Updated" || echo "No changes to commit"
+          git remote add gitee git@gitee.com:mytv-android/iptv-api.git || true
           git push gitee --force
-        # uses: Yikun/hub-mirror-action@master
-        # with:
-        #   src: 'github/mytv-android'    			
-        #   dst: 'gitee/mytv-android'   
-        #   dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}  
-        #   dst_token:  ${{ secrets.GITEE_TOKEN }}  
-        #   force_update: true
-        #   static_list: "iptv-api"
-        #   account_type: org   		
-        #   debug: true
