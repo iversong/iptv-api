@@ -43,7 +43,8 @@ jobs:
           git add *
           git reset --soft HEAD^
           git commit -m "Github Action Auto Updated"
-          git push origin HEAD:master --force
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/iversong/iptv-api.git
+          git push origin HEAD:master
 
       - name: Mirror the Github organization repos to Gitee.
         run: |
