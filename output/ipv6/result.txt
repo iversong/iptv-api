@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-20 06:34:00,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
+2026-04-20 19:20:39,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
@@ -159,9 +159,6 @@ CCTV-16,https://hls-gateway.vpstv.net/streams/709272.m3u8
 CCTV-16,https://t.freetv.fun/live/cctv16-2.m3u8
 CCTV-16,https://t.freetv.fun/live/cctv16-5.php
 CCTV-16,https://t.freetv.fun/live/cctv16.m3u8
-CCTV-16,https://hls-gateway.vpstv.net/streams/709089.m3u8
-CCTV-16,https://yunmei.tv/main/cctv-16.m3u8
-CCTV-16,http://lu.wqwqwq.sbs/itv/1000000006000233002.m3u8?cdn=ystenlive
 CCTV-17,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv17
 CCTV-17,http://lu.wqwqwq.sbs/itv/1000000005000265015.m3u8?cdn=ystenlive
 CCTV-17,https://hls-gateway.vpstv.net/streams/708820.m3u8
@@ -466,6 +463,7 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 山东卫视,https://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=
 山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-19.m3u8
 山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-8.m3u8
+山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/f3sqhR0.m3u8
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-3-2.m3u8
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-1.php
 陕西卫视,http://stream.snrtv.com/sxbc-star-ajDE57.m3u8
@@ -511,10 +509,8 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 天津卫视,https://t.freetv.fun/live/tian-jin-wei-shi-4.m3u8
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=0ed5d42846751a043f9b82c388d6a38b&time=69e44082
 西藏卫视,https://t.freetv.fun/live/xi-cang-wei-shi-1.m3u8
-新疆卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/xj.js?id=xjws
 新疆卫视,{XINJIANGTV}
-新疆卫视,http://nas.jdshipin.com:8801/xjtv.php?id=xjws
-新疆卫视,http://cdn.jdshipin.com:8880/ysp.php?id=xjws
+新疆卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/xj.js?id=xjws
 云南卫视,https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8
 云南卫视,http://live.wqwqwq.sbs/itv/5000000011000031120.m3u8?cdn=bestzb
 云南卫视,https://hls-gateway.vpstv.net/streams/708863.m3u8
