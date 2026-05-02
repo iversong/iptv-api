@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-02 18:49:42,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
+2026-05-03 06:39:53,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
@@ -536,6 +536,8 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=10fab4e0488ae5ec20e251cf132680bc&time=69ed3aec
 新疆卫视,{XINJIANGTV}
 新疆卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/xj.js?id=xjws
+新疆卫视,http://nas.jdshipin.com:8801/xjtv.php?id=xjws
+新疆卫视,http://cdn.jdshipin.com:8880/ysp.php?id=xjws
 云南卫视,https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8
 云南卫视,http://live.wqwqwq.sbs/itv/5000000011000031120.m3u8?cdn=bestzb
 云南卫视,https://hls-gateway.vpstv.net/streams/708863.m3u8
