@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-05 06:57:30,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
+2026-05-05 19:17:31,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
