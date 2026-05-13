@@ -1,50 +1,28 @@
 🕘️更新时间,#genre#
-2026-05-13 20:03:59,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
+2026-05-14 07:05:37,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
-CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=19
-CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=6
-CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=15
-CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=9
-CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=8
-CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=2
-CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=13
+CCTV-1,http://198.204.228.26/live/cctv1hd.m3u8
 CCTV-1,http://192.151.150.154/live/cctv1hd.m3u8
-CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=16
 CCTV-2,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv2
-CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=4
-CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3
-CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=7
-CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=3
-CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=5
-CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=6
-CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=1
-CCTV-3,https://iptv.catvod.com/live.php?id=CCTV3&line=2
 CCTV-4,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv4
 CCTV-4,rtmp://39.108.129.193:1935/cv4/3wqo_cv4
 CCTV-4,http://198.204.240.250:82/live/cctv4k.m3u8
 CCTV-4,http://107.150.60.122/live/cctv4k.m3u8
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1778677200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-1387800850326a96b7ce6a842f5335a2&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1778724000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-231f5e0cb3613b9eef520d8545e0fb73&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
-CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1778677200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-672d2cc707840589bfca22ebf9f7bc68&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1778724000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-740677cb16e50694c3e83082c3d769f8&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1778763600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-1bc4a4fcaf520914e0b9a7025e6639c2&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1778763600-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-ce69d38500e6963892f1a9b7be7b8786&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+CCTV-4,https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1778724000-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-231f5e0cb3613b9eef520d8545e0fb73&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 CCTV-5,rtmp://39.108.129.193:1935/cv5/6mio_cv5
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=3
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=1
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5%2B
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=7
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=2
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=4
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=5
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=8
+CCTV-5,http://198.204.228.26/live/cctv5hd.m3u8
+CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV-6,http://192.151.150.154/live/cctv6hd.m3u8
 CCTV-6,http://107.150.60.122/live/cctv6hd.m3u8
 CCTV-7,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv7
 CCTV-7,http://107.150.60.122/live/cctv7hd.m3u8
-CCTV-8,http://107.150.60.122/live/cctv8k.m3u8
 CCTV-8,http://198.204.240.250:82/live/cctv8k.m3u8
+CCTV-8,http://107.150.60.122/live/cctv8k.m3u8
 CCTV-8,http://107.150.60.122/live/cctv8hd.m3u8
 CCTV-9,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv9
 CCTV-9,rtmp://39.108.129.193:1935/cv9/jr0g_cv9
@@ -53,15 +31,6 @@ CCTV-12,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.
 CCTV-13,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv13
 CCTV-14,rtmp://39.108.129.193:1935/cv14/16rk_cv14
 CCTV-17,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv17
-CCTV-17,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=2026012706424552f81eb7556d4a899b1d8d0a4dbd0a13&mdspid=&spid=699004&netType=4&sid=5501083631&pid=2028597139&timestamp=20260127064245&Channel_ID=0116_2600001300-99000-201600010013350&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=116.128.189.6&SecurityKey=20260127064245&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=658c6d4de116a3d02223910929a3c354
-CCTV-17,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
-CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
-CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
-CCTV-17,http://120.211.62.180:8000/hls/17/index.m3u8
-CCTV-17,http://120.238.94.10:9901/tsfile/live/1048_1.m3u8
-CCTV-17,http://58.57.40.22:9901/tsfile/live/0019_1.m3u8
-CCTV-17,http://183.11.239.36:808/hls/35/index.m3u8
-CCTV-17,http://go.bkpcp.top/mg/cctv17
 CETV-1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8
 CETV-1,http://hwylivehd.centv.cn/cetv1/ypd.m3u8
 CETV-1,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cetv1/51/20240709/index.m3u8?msisdn=202601270802158f0b414e527f4802bae892637135a137&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139&timestamp=20260127080215&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=218.28.233.106&SecurityKey=20260127080215&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c3cd45839b6fb60ffa57c4523b372e85
@@ -195,7 +164,6 @@ CETV-4,http://iptvcyp.top:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&aut
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1776566550-qcd4spzboonlbh8rsxq5jg63u1qwz0n7-0-6cb7517749da0830524bee54ece43cf0
 浙江卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=01
-浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 北京卫视,{BEIJING4K}
 北京卫视,{BEIJINGTV}
 北京卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjws4k
@@ -204,10 +172,18 @@ CETV-4,http://iptvcyp.top:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&aut
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 黑龙江卫视,{HEILONGJIANGTV}
 黑龙江卫视,http://192.151.150.154/live/hljwshd.m3u8
+黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=1
+黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=2
+黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=5
+黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86
+黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=3
+黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=4
+安徽卫视,http://192.151.150.154/live/ahwshd.m3u8
 东方卫视,{DONGFANGTV}
 东方卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sh.js?id=dfws
-东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东方卫视,http://192.151.150.154/live/dfwshd.m3u8
+东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 东南卫视,{DONGNANTV}
 甘肃卫视,{GANSUTV}
 甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
@@ -227,9 +203,9 @@ CETV-4,http://iptvcyp.top:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&aut
 辽宁卫视,http://192.151.150.154/live/lnwshd.m3u8
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3621481general.m3u8?txSecret=a0b8cc66a1124cf66791a507195b9093&txTime=6D58FFD0&token=0b236ad773864fc98395945032305dd6
 内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
-宁夏卫视,http://198.204.228.26/live/nxws.m3u8
-宁夏卫视,http://192.151.150.154/live/nxws.m3u8
 宁夏卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
+宁夏卫视,http://192.151.150.154/live/nxws.m3u8
+宁夏卫视,http://198.204.228.26/live/nxws.m3u8
 青海卫视,{QINGHAITV}
 青海卫视,http://192.151.150.154/live/qhws.m3u8
 山东卫视,http://192.151.150.154/live/sdwshd.m3u8
@@ -239,11 +215,11 @@ CETV-4,http://iptvcyp.top:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&aut
 深圳卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/sz.js?id=szws
 深圳卫视,http://107.150.60.122/live/szwshd.m3u8
 深圳卫视,http://192.151.150.154/live/szwshd.m3u8
-深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 深圳卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_SHENZHEN-HQ/G_SHENZHEN-HQ.m3u8
+深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 三沙卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/hainan.js?id=ssws
-三沙卫视,http://198.204.228.26/live/ssws.m3u8
 三沙卫视,http://192.151.150.154/live/ssws.m3u8
+三沙卫视,http://198.204.228.26/live/ssws.m3u8
 三沙卫视,http://107.150.60.122/live/ssws.m3u8
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=0ed5d42846751a043f9b82c388d6a38b&time=69e44082
 西藏卫视,http://cssbyd.imwork.net:8082/hls/46/index.m3u8
@@ -258,8 +234,8 @@ CETV-4,http://iptvcyp.top:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&aut
 新疆卫视,{XINJIANGTV}
 新疆卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/xj.js?id=xjws
 新疆卫视,http://192.151.150.154/live/xjws.m3u8
-新疆卫视,http://198.204.228.26/live/xjws.m3u8
 新疆卫视,http://107.150.60.122/live/xjws.m3u8
+新疆卫视,http://198.204.228.26/live/xjws.m3u8
 云南卫视,https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8
 云南卫视,http://192.151.150.154/live/ynwshd.m3u8
 
@@ -1957,8 +1933,8 @@ CETV-4,http://iptvcyp.top:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&aut
 七台河民生社教,http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
 
 🎬电影频道,#genre#
-CHC家庭影院,http://192.151.150.154/live/chcjt.m3u8
 CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
+CHC家庭影院,http://192.151.150.154/live/chcjt.m3u8
 CHC动作电影,http://198.204.228.26/live/chcdz.m3u8
 CHC动作电影,http://192.151.150.154/live/chcdz.m3u8
 CHC高清电影,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
@@ -2047,8 +2023,6 @@ IPTV经典电影,http://123.129.70.178:9901/tsfile/live/1004_1.m3u8
 东森洋片,135.148.104.228:19806/5e8420f5477344b9b7b39d9e96162ce1
 东森洋片,generationnexxxt.com:19806/5e8420f5477344b9b7b39d9e96162ce
 东森洋片,generationnexxxt.com:19806/5e8420f5477344b9b7b39d9e96162ce1
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 🎥咪咕直播,#genre#
 
