@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-17 19:05:11,https://hls-gateway.vpstv.net/streams/476879.m3u8
+2026-05-18 06:53:19,https://hls-gateway.vpstv.net/streams/476879.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://hls-gateway.vpstv.net/streams/476879.m3u8
@@ -1436,6 +1436,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 东森洋片,https://live.catvod.com/live.php?id=ettvwestern
 东森洋片,https://tv.iill.top/x/dsyp
 东森洋片,https://hls.iill.top/api/dsyp/index.m3u8
+东森洋片,http://kaniptv.com/xz/xz_f09181ac93/wwkds.php?id=dsyp
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 东森超视,https://hls-gateway.vpstv.net/streams/476234.m3u8
 
