@@ -1,5 +1,5 @@
-🕘️更新时间,#genre#
-2026-05-19 20:40:10,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
+🕘️正在更新中，刷新获取最新结果,#genre#
+2026-05-20 07:02:39,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
@@ -1400,9 +1400,16 @@ CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-2.m3u8
 NewTV惊悚悬疑,http://iptv.666230.xyz/iptv/bjyd.php/7013
 NewTV惊悚悬疑,http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
 NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
-纬来电影,https://t.freetv.fun/live/wei-lai-dian-ying-1.php
-纬来电影,https://t.freetv.fun/live/wei-lai-dian-ying.php
-纬来电影,https://t.freetv.fun/live/wei-lai-dian-ying-2.php
+纬来电影,https://live.catvod.com/catvod_com.php?id=videolandmovie
+纬来电影,http://live.catvod.com/smart.php?id=videolandmovie
+纬来电影,https://live.catvod.com/live.php?id=videolandmovie&token=a76bdc035b650a1c05ec1f7fb9f26ae2f5af7dd30a77937811b00e06d85b6954%3A1760491003%3ANTIuMTUwLjI5Ljk4
+纬来电影,https://live.catvod.com/live.php?id=videolandmovie&token=4ef1b71d966e768b749843d150246e8f77aa83b1d79878100de8f8b3431e0b59%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
+纬来电影,https://smt.858.qzz.io/Smart.php?id=videolandmovie
+纬来电影,http://php.666230.xyz/smt.php?id=videolandmovie
+纬来电影,https://hls-gateway.vpstv.net/streams/477063.m3u8
+纬来电影,https://tv.iill.top/x/wldy
+纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
+纬来电影,https://smt.iktv.ddns-ip.net/Smart.php?id=videolandmovie
 靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
 靖天映画,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
@@ -1425,6 +1432,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 天映经典,https://cdn9.163189.xyz/smt1.1.php?id=Celestial2
 无线星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh
+无线星河,https://cdn6.163189.xyz/163189/tvbxh
 星空卫视,https://t.freetv.fun/live/xing-kong-wei-shi-1.m3u8
 东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8
 龙祥电影,https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
