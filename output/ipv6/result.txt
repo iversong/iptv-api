@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-23 06:25:21,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
+2026-08-23 18:27:53,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
@@ -159,9 +159,6 @@ CCTV-16,https://hls-gateway.vpstv.net/streams/709272.m3u8
 CCTV-16,https://t.freetv.fun/live/cctv16-2.m3u8
 CCTV-16,https://t.freetv.fun/live/cctv16-5.php
 CCTV-16,https://t.freetv.fun/live/cctv16.m3u8
-CCTV-16,https://hls-gateway.vpstv.net/streams/709089.m3u8
-CCTV-16,https://yunmei.tv/main/cctv-16.m3u8
-CCTV-16,http://lu.wqwqwq.sbs/itv/1000000006000233002.m3u8?cdn=ystenlive
 CCTV-17,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv17
 CCTV-17,http://lu.wqwqwq.sbs/itv/1000000005000265015.m3u8?cdn=ystenlive
 CCTV-17,https://hls-gateway.vpstv.net/streams/708820.m3u8
