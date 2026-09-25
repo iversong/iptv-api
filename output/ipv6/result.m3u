@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gitee.com/mytv-android/myepg/raw/master/output/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="🕘️更新时间",2026-09-24 22:42:01
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="🕘️更新时间",2026-09-25 08:18:46
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="📺央视频道",CCTV-1
 javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
@@ -2691,6 +2691,8 @@ http://iptv.666230.xyz/iptv/bjyd.php/7013
 http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
 #EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
 http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
+#EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
+http://ott.mobaibox.com/PLTV/4/224/3221227606/index.m3u8
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/纬来电影.png" group-title="🎬电影频道",纬来电影
 https://live.catvod.com/catvod_com.php?id=videolandmovie
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/纬来电影.png" group-title="🎬电影频道",纬来电影
