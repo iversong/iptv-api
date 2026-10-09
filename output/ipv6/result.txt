@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-09 09:46:28,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
+2026-10-10 00:50:56,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/cctvnews.js?id=cctv1
@@ -556,6 +556,7 @@ CETV-4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/inde
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=10fab4e0488ae5ec20e251cf132680bc&time=69ed3aec
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=d248c5435a284cc0ea4c287ab13af9f7&time=6a662639
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=c41c62a0386ae0ef05a0533824df4af4&time=6ab36c47
+西藏卫视,https://tv.vtibet.cn/live/HcKTakNfcF6BBi.m3u8?secret=30fc8fe7118466b5e5cbedd754592e01&time=6ac33d3e
 新疆卫视,{XINJIANGTV}
 新疆卫视,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/xj.js?id=xjws
 新疆卫视,http://nas.jdshipin.com:8801/xjtv.php?id=xjws
